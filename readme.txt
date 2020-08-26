@@ -12,3 +12,4 @@ Let me test the branch skill~
 I'm in the master.
 
 Add something to differ the test.
+Hello test2!
